@@ -6,7 +6,7 @@
 #include <iostream>
 
 int main() {
-
+  // ik im stupid enough for long long
   long long number{};
   long long addition_number{0};
   std::cout << "Enter a number: ";
